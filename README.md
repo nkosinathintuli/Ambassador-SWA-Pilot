@@ -2,4 +2,4 @@
 
 ## Nkosinathi's Resume Web App
 
-Website: [:link:](https://red-flower-01c1b6010.1.azurestaticapps.net)
+Website: <a href="https://red-flower-01c1b6010.1.azurestaticapps.net" target="_blank">:link:</a>
